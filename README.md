@@ -11,9 +11,6 @@ The textures are found in the editor .pak file.
 
 This importer is designed primarily for vehicle and environment models, and does not work on terrain
 
-**Rigging and Weighting:**
+**Addon Preferences**
 
-The meshes include rigs.
-The weighting has about a 1 in 10 chance of working correctly.
-
-*if you really need me to fix this, you can let me know, I just dont have a reason to fix it rn*
+The addon has a file path in the preferences, this should be set to your editor folder, EX: ``F:\\archives\\snowrunner\\editor\\``
